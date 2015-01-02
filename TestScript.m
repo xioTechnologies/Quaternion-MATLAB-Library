@@ -78,4 +78,11 @@ c = sprintf(strcat('\r', num, '\t', num, '\t', num), R(2,:));
 d = sprintf(strcat('\r', num, '\t', num, '\t', num), R(3,:));
 disp(strcat(a,b,c,d));
 
+%% ZYX Euler angles to quaternion
+
+q = euler2quatern(euler(1), euler(2), euler(3));
+a = sprintf('\rZYX Euler angles to quaternion:');
+b = sprintf(strcat('\r', num, '\t', num, '\t', num, '\t', num), q);
+disp(strcat(a,b));
+
 %% End of script
