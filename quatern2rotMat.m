@@ -6,7 +6,7 @@ function R = quatern2rotMat(q)
 %   Converts a quaternion orientation to a rotation matrix.
 %
 %   For more information see:
-%   http://www.x-io.co.uk/node/8#quaternions
+%   http://x-io.co.uk/quaternions/
 %
 %	Date          Author          Notes
 %	27/09/2011    SOH Madgwick    Initial release

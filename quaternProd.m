@@ -6,7 +6,7 @@ function ab = quaternProd(a, b)
 %   Calculates the quaternion product of quaternion a and b.
 %
 %   For more information see:
-%   http://www.x-io.co.uk/node/8#quaternions
+%   http://x-io.co.uk/quaternions/
 %
 %	Date          Author          Notes
 %	27/09/2011    SOH Madgwick    Initial release

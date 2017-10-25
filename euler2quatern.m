@@ -7,7 +7,7 @@ function q = euler2quatern(phi, theta, psi)
 %   rotation around X, theta around Y and psi around Z.
 %
 %   For more information see:
-%   http://www.x-io.co.uk/node/8#quaternions
+%   http://x-io.co.uk/quaternions/
 %
 %	Date          Author          Notes
 %	01/01/2015    SOH Madgwick    Initial release

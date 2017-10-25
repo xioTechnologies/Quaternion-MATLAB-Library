@@ -6,7 +6,7 @@ function v = quaternRotate(v, q)
 %   Rotates the 3D vector v by a quaternion q.
 %
 %   For more information see:
-%   http://www.x-io.co.uk/node/8#quaternions
+%   http://x-io.co.uk/quaternions/
 %
 %	Date          Author          Notes
 %	02/10/2011    SOH Madgwick    Initial release
